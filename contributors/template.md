@@ -1,4 +1,4 @@
-# Employee Profile
-**Name:** Name
-**Favorite Number:** 1
-**Second Favorite Number:** 2
+# Contributor Profile
+## **Name:** Name
+## **Favorite Number:** 1
+## **Second Favorite Number:** 2
